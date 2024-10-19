@@ -10,8 +10,8 @@ This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript. The
 - Reset functionality to start a new game.
 
 ## Technologies Used
-- **HTML5** for structuring the web page.
-- **CSS3** for styling and creating the game board.
+- **HTML** for structuring the web page.
+- **CSS** for styling and creating the game board.
 - **JavaScript** for game logic, including turn-taking and win detection.
 
 ## Installation and Setup
